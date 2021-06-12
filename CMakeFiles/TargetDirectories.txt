@@ -1,0 +1,3 @@
+/Users/michalsienkiewicz/Documents/BEUTH/carvenonymous/CMakeFiles/rebuild_cache.dir
+/Users/michalsienkiewicz/Documents/BEUTH/carvenonymous/CMakeFiles/edit_cache.dir
+/Users/michalsienkiewicz/Documents/BEUTH/carvenonymous/CMakeFiles/carvnonymous.dir
